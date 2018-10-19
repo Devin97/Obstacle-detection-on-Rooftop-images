@@ -2,6 +2,8 @@
 
 Credits:
 
+[Paper Link](https://arxiv.org/abs/1803.08396) (CVPR'18)
+
 Link to the reference github repository : https://github.com/hezhangsprinter/DCPDN
 ```
 @inproceedings{dehaze_zhang_2018,		
