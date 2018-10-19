@@ -1,6 +1,6 @@
 # Obstacle-detection-on-Rooftop-images
 
-Credits:
+**Credits:**
 
 [Paper Link](https://arxiv.org/abs/1803.08396) (CVPR'18)
 
