@@ -42,10 +42,9 @@ Added a script "dehaze.py" which performs these four steps and produces results 
 ```
 Link to Repository : https://github.com/matterport/Mask_RCNN
 
-* Download training and validation dataset from the link below
-* Train : https://www.dropbox.com/sh/a1slu2tancpz9s1/AADNe6auWg94Igm_Fli8raM_a?dl=0
-* Validation : https://www.dropbox.com/sh/eprk9sgist326xv/AABz3DahSbGKUcJD6sW73YN7a?dl=0
-* Put 'train' and 'val' folder in Mask_RCNN folder.
+* Download training and validation dataset from the link below & put 'train' and 'val' folder in Mask_RCNN folder.
+  - Train : https://www.dropbox.com/sh/a1slu2tancpz9s1/AADNe6auWg94Igm_Fli8raM_a?dl=0
+  - Validation : https://www.dropbox.com/sh/eprk9sgist326xv/AABz3DahSbGKUcJD6sW73YN7a?dl=0
 
 * Download pretrained obstacle weights from the link below and put it inside /Mask_RCNN/logs/obstacle_weight
   https://www.dropbox.com/s/nonyu5cgsz1zn0c/mask_rcnn_obstacle_0010.h5?dl=0
