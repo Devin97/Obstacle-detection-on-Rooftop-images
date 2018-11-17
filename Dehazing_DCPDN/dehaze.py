@@ -230,7 +230,7 @@ def dehaze(imgdir, workers=0):
             print(index)
             zz1=zz[index2,:,:,:]
 
-            zz1 = cv2.resize(zz1, (300, 300), interpolation=cv2.INTER_CUBIC)
+            #zz1 = cv2.resize(zz1, (300, 300), interpolation=cv2.INTER_CUBIC)
             vutils.save_image(zz1, os.path.join(directory, str(index-1)+'_DCPCN.png'), normalize=True, scale_each=False)
         for i in os.listdir('./result_cvpr/Dehazed'):
             print(i)
